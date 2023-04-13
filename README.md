@@ -15,10 +15,6 @@
 
 ---
 
-### 🎧 Spotify Playing
-
-[![Spotify](https://nowplayingspotify.vercel.app/api/spotify)][Spotify]
-
 ### 🔗 Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='sarthakhanda | GitHub' height='40'>](https://github.com/sarthakhanda)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
