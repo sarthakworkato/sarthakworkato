@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to learn from other Developers
-- 🥅 2023 Goals: Contribute more to Accelerators
+- 🥅 2025 Goals: Contribute more to Workato Agentic
 - ⚡ Fun fact: I love cars and watches
  
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c2ef1b4f-1901-4eac-b7ae-78be3281e665/deploy-status)][netlify]
