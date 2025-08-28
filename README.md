@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=sarthakhanda.com&style=for-the-badge&url=https://sarthakhanda.netlify.app/)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/SarthakHanda10?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
-### Genius, Developer, Philanthropist & Gentleman.
+### Genius, Developer, Philanthropist & Gentleman
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to learn from other Developers
